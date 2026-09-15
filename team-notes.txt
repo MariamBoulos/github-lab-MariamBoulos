@@ -1,0 +1,4 @@
+TEAMNOTES
+
+Repository created for the 
+	GitHub lab.
